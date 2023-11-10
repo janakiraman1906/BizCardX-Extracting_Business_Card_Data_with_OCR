@@ -22,7 +22,7 @@ mycursor.execute('Use bizcardx_db')
 
 # tittle
 icon = Image.open("icon.png")
-st.set_page_config(page_title= "BizCardX: Extracting Business Card Data with OCR | By Mukesh",
+st.set_page_config(page_title= "BizCardX: Extracting Business Card Data with OCR | By Janakiraman",
                    page_icon= icon,
                    initial_sidebar_state= "expanded")
 st.markdown("<h1 style='text-align: center; color: black;'>BizCardX: Extracting Business Card Data with OCR </h1>",
